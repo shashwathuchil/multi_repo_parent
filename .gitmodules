@@ -1,0 +1,3 @@
+[submodule "src/pages/multi_repo_sub1"]
+	path = src/pages/multi_repo_sub1
+	url = https://github.com/shashwathuchil/multi_repo_sub1.git

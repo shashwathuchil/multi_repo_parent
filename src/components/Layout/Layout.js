@@ -27,7 +27,7 @@ import Sidebar from "../Sidebar";
 import Dashboard from "../../pages/dashboard";
 import Typography from "../../pages/typography";
 import Notifications from "../../pages/notifications";
-import Maps from "../../pages/maps";
+import Maps from "../../pages/multi_repo_sub1/maps";
 import Tables from "../../pages/tables";
 import Icons from "../../pages/icons";
 import Charts from "../../pages/charts";
