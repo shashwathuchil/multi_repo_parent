@@ -1,3 +1,4 @@
-[submodule "src/pages/multi_repo_sub1"]
-	path = src/pages/multi_repo_sub1
-	url = https://github.com/shashwathuchil/multi_repo_sub1.git
+[submodule "notifications2"]
+	path = multi_repo_sub2
+	url = https://github.com/shashwathuchil/multi_repo_sub2.git
+	branch = main
