@@ -2,3 +2,4 @@
 	path = multi_repo_sub2
 	url = https://github.com/shashwathuchil/multi_repo_sub2.git
 	branch = main
+ignore = all
